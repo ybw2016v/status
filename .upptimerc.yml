@@ -7,7 +7,7 @@ sites:
     url: https://dogcraft.top
   - name: DMI
     url: https://m.dogcraft.top
-  - name: "茶馆"
+  - name: 茶馆
     url: https://m.dogcraft.cn
   - name: GIT
     url: https://git.neko.red
@@ -24,8 +24,16 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: About
+      href: https://www.neko.red/about/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/30 * * * *"
