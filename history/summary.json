@@ -58,19 +58,19 @@
     "url": "https://git.neko.red",
     "icon": "https://favicons.githubusercontent.com/git.neko.red",
     "slug": "git",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1491,
-    "timeDay": 1622,
-    "timeWeek": 1445,
-    "timeMonth": 1491,
-    "timeYear": 1491,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 1532,
+    "timeDay": 1901,
+    "timeWeek": 1537,
+    "timeMonth": 1532,
+    "timeYear": 1532,
     "dailyMinutesDown": {
-      "2022-09-09": 0
+      "2022-09-09": 60
     }
   }
 ]
