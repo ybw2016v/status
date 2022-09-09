@@ -58,7 +58,7 @@
     "url": "https://git.neko.red",
     "icon": "https://favicons.githubusercontent.com/git.neko.red",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 1445,
     "timeMonth": 1491,
     "timeYear": 1491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-09": 0
+    }
   }
 ]
