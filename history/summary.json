@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1043,
-    "timeDay": 934,
+    "time": 1044,
+    "timeDay": 999,
     "timeWeek": 1060,
-    "timeMonth": 1043,
-    "timeYear": 1043,
+    "timeMonth": 1044,
+    "timeYear": 1044,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 738,
-    "timeWeek": 797,
-    "timeMonth": 925,
-    "timeYear": 925,
+    "time": 917,
+    "timeDay": 706,
+    "timeWeek": 782,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1374,
-    "timeDay": 1279,
-    "timeWeek": 1265,
-    "timeMonth": 1374,
-    "timeYear": 1374,
+    "time": 1401,
+    "timeDay": 1700,
+    "timeWeek": 1372,
+    "timeMonth": 1401,
+    "timeYear": 1401,
     "dailyMinutesDown": {}
   },
   {
@@ -64,13 +64,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 1568,
-    "timeDay": 1280,
-    "timeWeek": 1298,
-    "timeMonth": 1568,
-    "timeYear": 1568,
+    "time": 1562,
+    "timeDay": 1332,
+    "timeWeek": 1309,
+    "timeMonth": 1562,
+    "timeYear": 1562,
     "dailyMinutesDown": {
       "2022-09-09": 60
     }
+  },
+  {
+    "name": "Vaultwarden",
+    "url": "https://e.neko.red",
+    "icon": "https://favicons.githubusercontent.com/e.neko.red",
+    "slug": "vaultwarden",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1087,
+    "timeDay": 1087,
+    "timeWeek": 1087,
+    "timeMonth": 1087,
+    "timeYear": 1087,
+    "dailyMinutesDown": {}
   }
 ]
