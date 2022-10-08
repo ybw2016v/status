@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 1369,
-    "timeWeek": 1242,
-    "timeMonth": 1118,
-    "timeYear": 1105,
+    "time": 1106,
+    "timeDay": 1262,
+    "timeWeek": 1231,
+    "timeMonth": 1123,
+    "timeYear": 1106,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 939,
-    "timeWeek": 923,
-    "timeMonth": 888,
+    "timeDay": 924,
+    "timeWeek": 921,
+    "timeMonth": 885,
     "timeYear": 917,
     "dailyMinutesDown": {}
   },
@@ -40,18 +40,20 @@
     "url": "https://m.dogcraft.cn",
     "icon": "https://icons.duckduckgo.com/ip3/m.dogcraft.cn.ico",
     "slug": "misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1511,
-    "timeDay": 4428,
-    "timeWeek": 1716,
-    "timeMonth": 1648,
-    "timeYear": 1511,
-    "dailyMinutesDown": {}
+    "time": 1552,
+    "timeDay": 3885,
+    "timeWeek": 1919,
+    "timeMonth": 1720,
+    "timeYear": 1552,
+    "dailyMinutesDown": {
+      "2022-10-08": 0
+    }
   },
   {
     "name": "GIT",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.90%",
-    "time": 1529,
-    "timeDay": 1465,
-    "timeWeek": 1324,
-    "timeMonth": 1551,
-    "timeYear": 1529,
+    "time": 1524,
+    "timeDay": 1373,
+    "timeWeek": 1318,
+    "timeMonth": 1540,
+    "timeYear": 1524,
     "dailyMinutesDown": {
       "2022-09-09": 60
     }
@@ -84,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1286,
-    "timeDay": 1464,
-    "timeWeek": 1269,
-    "timeMonth": 1286,
-    "timeYear": 1286,
+    "time": 1280,
+    "timeDay": 1320,
+    "timeWeek": 1257,
+    "timeMonth": 1280,
+    "timeYear": 1280,
     "dailyMinutesDown": {}
   }
 ]
