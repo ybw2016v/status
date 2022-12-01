@@ -4,11 +4,11 @@
     "url": "https://dogcraft.top",
     "icon": "https://icons.duckduckgo.com/ip3/dogcraft.top.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.86%",
     "time": 1152,
     "timeDay": 1436,
@@ -16,6 +16,7 @@
     "timeMonth": 1199,
     "timeYear": 1152,
     "dailyMinutesDown": {
+      "2022-12-01": 1,
       "2022-11-21": 56,
       "2022-11-06": 138
     }
@@ -67,10 +68,10 @@
     "url": "https://git.neko.red",
     "icon": "https://icons.duckduckgo.com/ip3/git.neko.red.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1446,
@@ -79,6 +80,7 @@
     "timeMonth": 1403,
     "timeYear": 1446,
     "dailyMinutesDown": {
+      "2022-12-01": 1,
       "2022-09-09": 60
     }
   },
@@ -87,9 +89,9 @@
     "url": "https://e.neko.red",
     "icon": "https://icons.duckduckgo.com/ip3/e.neko.red.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +100,8 @@
     "timeWeek": 1357,
     "timeMonth": 1276,
     "timeYear": 1277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-01": 0
+    }
   }
 ]
