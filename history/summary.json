@@ -4,11 +4,11 @@
     "url": "https://dogcraft.top",
     "icon": "https://icons.duckduckgo.com/ip3/dogcraft.top.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "88.95%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.73%",
     "time": 1197,
     "timeDay": 2055,
@@ -16,6 +16,7 @@
     "timeMonth": 1317,
     "timeYear": 1197,
     "dailyMinutesDown": {
+      "2022-12-03": 3,
       "2022-12-02": 160,
       "2022-12-01": 28,
       "2022-11-21": 56,
@@ -27,10 +28,10 @@
     "url": "https://m.dogcraft.top",
     "icon": "https://icons.duckduckgo.com/ip3/m.dogcraft.top.ico",
     "slug": "dmi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "90.63%",
-    "uptimeWeek": "98.66%",
+    "uptimeDay": "90.55%",
+    "uptimeWeek": "98.65%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.90%",
     "time": 991,
@@ -39,6 +40,7 @@
     "timeMonth": 1172,
     "timeYear": 991,
     "dailyMinutesDown": {
+      "2022-12-03": 1,
       "2022-12-02": 135
     }
   },
@@ -71,9 +73,9 @@
     "url": "https://git.neko.red",
     "icon": "https://icons.duckduckgo.com/ip3/git.neko.red.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "89.48%",
+    "uptimeDay": "89.83%",
     "uptimeWeek": "98.22%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.83%",
@@ -83,6 +85,7 @@
     "timeMonth": 1437,
     "timeYear": 1454,
     "dailyMinutesDown": {
+      "2022-12-03": 1,
       "2022-12-02": 152,
       "2022-12-01": 28,
       "2022-09-09": 60
@@ -93,9 +96,9 @@
     "url": "https://e.neko.red",
     "icon": "https://icons.duckduckgo.com/ip3/e.neko.red.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "89.69%",
+    "uptimeDay": "89.97%",
     "uptimeWeek": "98.26%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.83%",
@@ -105,6 +108,7 @@
     "timeMonth": 1311,
     "timeYear": 1294,
     "dailyMinutesDown": {
+      "2022-12-03": 0,
       "2022-12-02": 148,
       "2022-12-01": 27
     }
