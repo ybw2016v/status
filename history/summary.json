@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/art.dogcraft.top.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "47.89%",
+    "uptime": "47.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.13%",
-    "time": 1046,
-    "timeDay": 295,
-    "timeWeek": 300,
-    "timeMonth": 284,
-    "timeYear": 1017,
+    "uptimeYear": "33.88%",
+    "time": 1044,
+    "timeDay": 221,
+    "timeWeek": 287,
+    "timeMonth": 279,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2023-12-02": 79,
+      "2023-12-03": 86,
+      "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
@@ -273,8 +274,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1300,
       "2022-12-10": 438,
-      "2022-12-04": 480,
-      "2022-12-03": 707
+      "2022-12-04": 480
     }
   },
   {
@@ -287,12 +287,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.88%",
-    "time": 1109,
-    "timeDay": 656,
-    "timeWeek": 914,
-    "timeMonth": 853,
-    "timeYear": 1144,
+    "uptimeYear": "98.91%",
+    "time": 1108,
+    "timeDay": 711,
+    "timeWeek": 882,
+    "timeMonth": 844,
+    "timeYear": 1139,
     "dailyMinutesDown": {
       "2023-10-01": 25,
       "2023-05-14": 31,
@@ -307,8 +307,7 @@
       "2022-12-12": 1306,
       "2022-12-11": 1075,
       "2022-12-10": 406,
-      "2022-12-04": 446,
-      "2022-12-03": 602
+      "2022-12-04": 446
     }
   },
   {
@@ -323,10 +322,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 1709,
-    "timeDay": 1030,
-    "timeWeek": 1793,
-    "timeMonth": 1584,
-    "timeYear": 1686,
+    "timeDay": 1249,
+    "timeWeek": 1680,
+    "timeMonth": 1558,
+    "timeYear": 1685,
     "dailyMinutesDown": {
       "2023-08-17": 59,
       "2023-05-13": 341,
@@ -341,8 +340,7 @@
       "2023-03-03": 22,
       "2023-02-15": 29,
       "2023-01-31": 34,
-      "2023-01-04": 33,
-      "2022-12-03": 35
+      "2023-01-04": 33
     }
   },
   {
@@ -351,16 +349,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.neko.red.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.63%",
-    "time": 1715,
-    "timeDay": 1305,
-    "timeWeek": 1740,
-    "timeMonth": 1675,
-    "timeYear": 1778,
+    "uptimeYear": "98.66%",
+    "time": 1721,
+    "timeDay": 1324,
+    "timeWeek": 1642,
+    "timeMonth": 1655,
+    "timeYear": 1780,
     "dailyMinutesDown": {
       "2023-10-13": 95,
       "2023-09-25": 68,
@@ -405,8 +403,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1210,
       "2022-12-10": 384,
-      "2022-12-04": 449,
-      "2022-12-03": 636
+      "2022-12-04": 449
     }
   },
   {
@@ -419,11 +416,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "98.78%",
-    "time": 1666,
-    "timeDay": 1301,
-    "timeWeek": 1586,
-    "timeMonth": 1622,
+    "uptimeYear": "98.81%",
+    "time": 1665,
+    "timeDay": 1047,
+    "timeWeek": 1435,
+    "timeMonth": 1623,
     "timeYear": 1734,
     "dailyMinutesDown": {
       "2023-11-19": 31,
@@ -463,8 +460,7 @@
       "2022-12-12": 1304,
       "2022-12-11": 1069,
       "2022-12-10": 383,
-      "2022-12-04": 417,
-      "2022-12-03": 579
+      "2022-12-04": 417
     }
   }
 ]
