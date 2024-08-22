@@ -3,16 +3,8 @@ owner: ybw2016v # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: BLOG
-    url: https://art.dogcraft.top
-  - name: DMI
-    url: https://m.dogcraft.top
   - name: misskey
-    url: https://m.dogcraft.cn
-  - name: GIT
-    url: https://git.neko.red
-  - name: Vaultwarden
-    url: https://e.neko.red
+    url: https://m.nekohub.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,8 +18,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: About
-      href: https://www.neko.red/about/
+    # - title: About
+    #   href: https://www.neko.red/about/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
