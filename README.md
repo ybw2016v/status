@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.dogcraft.top)
+[**Visit our status website →**](https://status.nekohub.uk)
 
 ## 📄 License
 
