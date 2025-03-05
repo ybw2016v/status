@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.nekohub.uk.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "77.78%",
+    "uptime": "77.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.09%",
+    "uptimeYear": "53.37%",
     "time": 1051,
-    "timeDay": 731,
-    "timeWeek": 699,
-    "timeMonth": 719,
+    "timeDay": 723,
+    "timeWeek": 701,
+    "timeMonth": 724,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2024-08-22": 416,
@@ -185,8 +185,7 @@
       "2024-03-09": 1440,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
-      "2024-03-06": 1440,
-      "2024-03-05": 1440
+      "2024-03-06": 1440
     }
   }
 ]
