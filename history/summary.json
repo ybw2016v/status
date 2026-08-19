@@ -4,9 +4,9 @@
     "url": "https://m.nekohub.uk",
     "icon": "https://icons.duckduckgo.com/ip3/m.nekohub.uk.ico",
     "slug": "misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "85.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -17,7 +17,8 @@
     "timeYear": 655,
     "dailyMinutesDown": {
       "2025-11-18": 192,
-      "2026-01-30": 43
+      "2026-01-30": 43,
+      "2026-08-19": 0
     }
   }
 ]
